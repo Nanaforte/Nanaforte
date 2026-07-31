@@ -49,12 +49,13 @@
 
 ---
 
+<!-- REDES SOCIAIS E CONTACTOS -->
 <p align="center">
-  <a href="mailto:teuemail@email.com">
+  <a href="mailto:anapatriciabf2008@gmail.com">
     <img src="https://img.shields.io/badge/Email-FFD1DC?style=for-the-badge&logo=gmail&logoColor=333" />
   </a>
-  <a href="https://linkedin.com/in/teuperfil">
-    <img src="https://img.shields.io/badge/LinkedIn-B0C4DE?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.instagram.com/ananaa_1117?igsh=MWR4cWkybjcxY2lwNQ%3D%3D&utm_source=qr" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-B0C4DE?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
 
