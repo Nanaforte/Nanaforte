@@ -24,10 +24,10 @@
 ### 📊 Stats & Progress
 
 <p align="center">
-  <!-- Cartão 1: Ana's GitHub Stats (Rosa Pastel) -->
-  <img height="180px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Nanaforte&custom_title=Ana%27s%20GitHub%20Stats&show_icons=true&bg_color=fdeef4&title_color=7d337d&text_color=4a2e4b&icon_color=8a4baf&border_color=fdeef4&include_all_commits=true&count_private=true" />
-  <!-- Cartão 2: Most Used Languages (Rosa Pastel com Layout de Barra + Grelha) -->
-  <img height="180px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Nanaforte&layout=compact&theme=rose_pine" />
+  <!-- Cartão 1: Ana's GitHub Stats (Transparente e sem borda) -->
+  <img height="165px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Nanaforte&custom_title=Ana%27s%20GitHub%20Stats&show_icons=true&hide_border=true&bg_color=00000000&text_color=333&title_color=000&icon_color=7d337d&include_all_commits=true&count_private=true" />
+  <!-- Cartão 2: Most Used Languages (Transparente, sem borda e Compacto) -->
+  <img height="165px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Nanaforte&layout=compact&hide_border=true&bg_color=00000000&text_color=333&title_color=000" />
 </p>
 
 <!-- COMMIT STREAK LOGO ABAIXO -->
