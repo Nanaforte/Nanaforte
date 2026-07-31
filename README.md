@@ -43,6 +43,12 @@
 
 ---
 
+<p align="center">
+  <img src="https://i.pinimg.com/736x/21/cf/3a/21cf3aeb5c7ebfa589c31fa781eb8364.jpg" width="100%" alt="Imagem fofa" />
+</p>
+
+---
+
 <!-- GIF DO GATINHO FOFO NO FINAL -->
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3IwMnVvZTk0ZTh6bWtsZ2R4MWJvbnN0Z2Fzd21pMHczZzFvcWF2eiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/xd22iKsu0Wn0Q/giphy.gif" width="130" />
