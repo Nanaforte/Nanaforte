@@ -7,7 +7,7 @@
 <h1 align="center">Ana 👋</h1>
 
 <p align="center">
-  <i>Student & Developer — Learning and building cool projects.</i>
+  <i>Student & Developer — Building cool stuff, learning every day & exploring code. 🚀</i>
 </p>
 
 <!-- CONTACTOS E REDES SOCIAIS -->
@@ -31,12 +31,21 @@
 
 ---
 
-<!-- ESTATÍSTICAS (IGUAL AO DO TEU COLEGA) -->
-### 📊 Stats
+<!-- ESTATÍSTICAS DO PERFIL (TEMA TOKYONIGHT) -->
+### 📊 Stats & Progress
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nanaforte&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nanaforte&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+<!-- SEQUÊNCIA DE ATIVIDADE (STREAK STATS) -->
+### 🔥 Commit Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nanaforte&theme=tokyonight" />
 </p>
 
 ---
