@@ -9,17 +9,17 @@
 <p align="center">
   <span style="color: #ffd1dc;">
     <i>CS student building & learning every day.</i><br>
-    <b>Python • C/C++ • MySQL • APIs • HTML/CSS</b><br>
-    <i>crafting cozy projects & tiny details with code. 🍵✨</i>
   </span>
 </p>
 
-<!-- REDES SOCIAIS E LINGUAGENS -->
+<!-- LINGUAGENS E TECNOLOGIAS-->
 <p align="center">
   <img src="https://img.shields.io/badge/Python-FFFACD?style=for-the-badge&logo=python&logoColor=333" />
   <img src="https://img.shields.io/badge/C%2B%2B-B0C4DE?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML-FFDAB9?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-FF8C00?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-E6E6FA?style=for-the-badge&logo=mysql&logoColor=333" />
+  <img src="https://img.shields.io/badge/Postman_APIs-FFD1DC?style=for-the-badge&logo=postman&logoColor=333" />
+  <img src="https://img.shields.io/badge/HTML5-FFDAB9?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-E0FFFF?style=for-the-badge&logo=css3&logoColor=333" />
 </p>
 
 ---
