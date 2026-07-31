@@ -4,7 +4,7 @@
 </p>
 
 <!-- TÍTULO E BIO -->
-<h1 align="center">Ana</h1>
+<h1 align="center">Hi☺️</h1>
 
 <p align="center">
   <i>i'm a programming student that loves cozy coding & tiny things ✨</i>
@@ -21,16 +21,26 @@
 </p>
 
 ---
+<!-- ESTATÍSTICAS E MOST USED LANGUAGES LADO A LADO -->
+### 📊 Stats & Progress
 
-<!-- ESTATÍSTICAS (TEMA CLARO/PASTEL) -->
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nanaforte&show_icons=true&theme=rose_pine&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nanaforte&layout=compact&theme=rose_pine" />
+  <!-- Cartão 1: Ana's GitHub Stats (Rosa Pastel) -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nanaforte&custom_title=Ana's%20GitHub%20Stats&show_icons=true&title_color=800080&text_color=333333&icon_color=800080&bg_color=fff0f5&include_all_commits=true&count_private=true" />
+  <!-- Cartão 2: Most Used Languages (Azul Pastel) -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nanaforte&layout=compact&title_color=1e90ff&text_color=333333&bg_color=e6f2ff" />
+</p>
+
+<!-- COMMIT STREAK LOGO ABAIXO -->
+### 🔥 Commit Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nanaforte&theme=rose_pine" />
 </p>
 
 ---
 
 <!-- GIF DO GATINHO FOFO NO FINAL -->
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjRkMzdjOWFhMWRlM2VlYzk4ZGRjNzM5ZWYwZTYwZDlhMDY0MDliMyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/3orieUV6wB8B0g4hA4/giphy.gif" width="130" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3IwMnVvZTk0ZTh6bWtsZ2R4MWJvbnN0Z2Fzd21pMHczZzFvcWF2eiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/xd22iKsu0Wn0Q/giphy.gif" width="130" />
 </p>
