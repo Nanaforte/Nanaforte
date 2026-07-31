@@ -27,7 +27,7 @@
   <!-- Cartão 1: Ana's GitHub Stats (Rosa Pastel) -->
   <img height="180px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Nanaforte&custom_title=Ana%27s%20GitHub%20Stats&show_icons=true&bg_color=fdeef4&title_color=7d337d&text_color=4a2e4b&icon_color=8a4baf&border_color=fdeef4&include_all_commits=true&count_private=true" />
   <!-- Cartão 2: Most Used Languages (Rosa Pastel com Layout de Barra + Grelha) -->
-  <img height="180px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Nanaforte&bg_color=fdeef4&title_color=7d337d&text_color=4a2e4b&border_color=fdeef4" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nanaforte&layout=compact&theme=rose_pine" />
 </p>
 
 <!-- COMMIT STREAK LOGO ABAIXO -->
