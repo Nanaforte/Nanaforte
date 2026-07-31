@@ -1,6 +1,6 @@
 <!-- BANNER DO TOPO -->
 <p align="center">
-  <img src="https://i.pinimg.com/1200x/7a/cc/32/7acc328ebcc710fc2e11add0491167c8.jpg" width="100%" alt="Banner" />
+  <img src="https://i.pinimg.com/1200x/39/19/fe/3919fea5c6c51883bb7e9949d9009022.jpg" width="100%" alt="Banner" />
 </p>
 
 <!-- TÍTULO E BIO -->
