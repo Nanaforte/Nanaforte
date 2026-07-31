@@ -7,10 +7,10 @@
 <h1 align="center"><font color="#f3a683">Hi☺️</font></h1>
 
 <p align="center">
-  <i><font color="#ffd1dc">i'm a programming student that loves cozy coding & tiny things ✨</font></i>
+  <span style="color: #ffd1dc;"><i>i'm a programming student that loves cozy coding & tiny things ✨</i></span>
 </p>
 
-<!-- REDES SOCIAIS E LINGUAGENS (BADGES EM TONS PASTEL MANTIDOS) -->
+<!-- REDES SOCIAIS E LINGUAGENS -->
 <p align="center">
   <img src="https://img.shields.io/badge/Python-FFFACD?style=for-the-badge&logo=python&logoColor=333" />
   <img src="https://img.shields.io/badge/C%2B%2B-B0C4DE?style=for-the-badge&logo=cplusplus&logoColor=white" />
