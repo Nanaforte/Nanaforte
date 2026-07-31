@@ -23,10 +23,10 @@
 ### 📊 Stats & Progress
 
 <p align="center">
-  <!-- Cartão 1: Ana's GitHub Stats (Tema Tokyonight ou Pastel) -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nanaforte&custom_title=Ana%27s%20GitHub%20Stats&show_icons=true&theme=rose_pine&include_all_commits=true&count_private=true" />
+  <!-- Cartão 1: Ana's GitHub Stats -->
+  <img height="180px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Nanaforte&custom_title=Ana%27s%20GitHub%20Stats&show_icons=true&theme=rose_pine&include_all_commits=true&count_private=true" />
   <!-- Cartão 2: Most Used Languages -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nanaforte&layout=compact&theme=rose_pine" />
+  <img height="180px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Nanaforte&layout=compact&theme=rose_pine" />
 </p>
 
 <!-- COMMIT STREAK LOGO ABAIXO -->
