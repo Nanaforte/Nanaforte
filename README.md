@@ -51,9 +51,6 @@
 
 <!-- REDES SOCIAIS E CONTACTOS -->
 <p align="center">
-  <a href="https://discord.com" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-Discord-FFD1DC?style=for-the-badge&logo=discord&logoColor=333" />
-  </a>
   <a href="https://www.instagram.com/ananaa_1117?igsh=MWR4cWkybjcxY2lwNQ%3D%3D&utm_source=qr" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-B0C4DE?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
