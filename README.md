@@ -49,12 +49,13 @@
 
 ---
 
-<h3 align="center"><font color="#f3a683">About Me</font></h3>
-
 <p align="center">
-  🌱 Currently focusing on <b>Data Structures & APIs</b><br>
-  💡 Crafting tiny cozy projects & learning every day<br>
-  🍵 Powered by warm drinks & good code
+  <a href="mailto:teuemail@email.com">
+    <img src="https://img.shields.io/badge/Email-FFD1DC?style=for-the-badge&logo=gmail&logoColor=333" />
+  </a>
+  <a href="https://linkedin.com/in/teuperfil">
+    <img src="https://img.shields.io/badge/LinkedIn-B0C4DE?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
 ---
