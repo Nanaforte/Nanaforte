@@ -1,6 +1,6 @@
 <!-- BANNER DO TOPO -->
 <p align="center">
-  <img src="https://i.pinimg.com/736x/18/6d/84/186d842f9b18a55240d87d2c69fd8cd4.jpg" width="100%" alt="Banner" />
+  <img src="https://i.pinimg.com/1200x/7a/cc/32/7acc328ebcc710fc2e11add0491167c8.jpg" width="100%" alt="Banner" />
 </p>
 
 <!-- TÍTULO E BIO -->
@@ -10,7 +10,7 @@
   <i>i'm a programming student that loves cozy coding & tiny things ✨</i>
 </p>
 
-<!-- BADGES -->
+<!-- REDES SOCIAIS E LINGUAGENS (BADGES FOFAS E ARREDONDADAS) -->
 <p align="center">
   <a href="https://linkedin.com/in/SEU_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-87CEEB?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:seuemail@gmail.com"><img src="https://img.shields.io/badge/Gmail-FFB6C1?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -22,7 +22,7 @@
 
 ---
 
-<!-- ESTATÍSTICAS -->
+<!-- ESTATÍSTICAS (TEMA CLARO/PASTEL) -->
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nanaforte&show_icons=true&theme=rose_pine&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nanaforte&layout=compact&theme=rose_pine" />
@@ -30,7 +30,7 @@
 
 ---
 
-<!-- VÍDEO DO PINTEREST DEPOIS DAS ESTATÍSTICAS -->
+<!-- GIF DO GATINHO FOFO NO FINAL -->
 <p align="center">
-  <video src="https://v1.pinimg.com/videos/iht/expMp4/f4/4c/0f/f44c0f27096f3788462126bb6162376f_720w.mp4" width="350" controls autoplay loop muted></video>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjRkMzdjOWFhMWRlM2VlYzk4ZGRjNzM5ZWYwZTYwZDlhMDY0MDliMyZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/3orieUV6wB8B0g4hA4/giphy.gif" width="130" />
 </p>
