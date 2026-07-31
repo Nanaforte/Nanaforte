@@ -49,6 +49,16 @@
 
 ---
 
+<h3 align="center"><font color="#f3a683">About Me</font></h3>
+
+<p align="center">
+  🌱 Currently focusing on <b>Data Structures & APIs</b><br>
+  💡 Crafting tiny cozy projects & learning every day<br>
+  🍵 Powered by warm drinks & good code
+</p>
+
+---
+
 <!-- GIF DO GATINHO FOFO NO FINAL -->
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3IwMnVvZTk0ZTh6bWtsZ2R4MWJvbnN0Z2Fzd21pMHczZzFvcWF2eiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/xd22iKsu0Wn0Q/giphy.gif" width="130" />
