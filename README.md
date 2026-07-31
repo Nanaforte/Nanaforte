@@ -7,7 +7,11 @@
 <h1 align="center"><font color="#f3a683">Hi☺️</font></h1>
 
 <p align="center">
-  <span style="color: #ffd1dc;"><i>i'm a programming student that loves cozy coding & tiny things ✨</i></span>
+  <span style="color: #ffd1dc;">
+    <i>CS student building & learning every day.</i><br>
+    <b>Python • C/C++ • MySQL • APIs • HTML/CSS</b><br>
+    <i>crafting cozy projects & tiny details with code. 🍵✨</i>
+  </span>
 </p>
 
 <!-- REDES SOCIAIS E LINGUAGENS -->
@@ -21,7 +25,7 @@
 ---
 
 <!-- ESTATÍSTICAS E MOST USED LANGUAGES LADO A LADO -->
-<h3 align="center"><font color="#f3a683">📊 Stats & Progress</font></h3>
+<h3 align="center"><font color="#f3a683">Stats & Progress</font></h3>
 
 <p align="center">
   <!-- Cartão 1: Ana's GitHub Stats -->
@@ -31,7 +35,7 @@
 </p>
 
 <!-- COMMIT STREAK LOGO ABAIXO -->
-<h3 align="center"><font color="#f3a683">🔥 Commit Streak</font></h3>
+<h3 align="center"><font color="#f3a683">Commit Streak</font></h3>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Nanaforte&background=00000000&border=ffd1dc&stroke=ffd1dc&ring=f3a683&fire=f3a683&currStreakNum=ffd1dc&sideNums=ffd1dc&currStreakLabel=f3a683&sideLabels=f3a683&dates=ffd1dc" />
