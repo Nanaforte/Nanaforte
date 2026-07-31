@@ -44,7 +44,7 @@
 ---
 
 <p align="center">
-  <img src="https://i.pinimg.com/736x/21/cf/3a/21cf3aeb5c7ebfa589c31fa781eb8364.jpg" width="100%" alt="Imagem fofa" />
+  <img src="https://pt.pinterest.com/pin/1126181450609932912/" width="100%" alt="Imagem fofa" />
 </p>
 
 ---
