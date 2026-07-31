@@ -1,10 +1,10 @@
 <!-- BANNER HORIZONTAL NO TOPO -->
 <p align="center">
-  <img src="https://i.pinimg.com/originals/1b/a3/16/1ba3160e10787e9c3e925b497b789ef8.gif" width="100%" alt="Header Banner" />
+  <img src="[https://i.pinimg.com/originals/1b/a3/16/1ba3160e10787e9c3e925b497b789ef8.gif](https://pt.pinterest.com/pin/782641241512136810/)" width="100%" alt="Header Banner" />
 </p>
 
 <!-- TÍTULO E APRESENTAÇÃO -->
-<h1 align="center">Ana 👋</h1>
+<h1 align="center">Hi 👋</h1>
 
 <p align="center">
   <i>Student & Developer — Building cool stuff, learning every day & exploring code. 🚀</i>
