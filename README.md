@@ -12,8 +12,6 @@
 
 <!-- REDES SOCIAIS E LINGUAGENS (BADGES FOFAS E ARREDONDADAS) -->
 <p align="center">
-  <a href="https://linkedin.com/in/SEU_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-87CEEB?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:seuemail@gmail.com"><img src="https://img.shields.io/badge/Gmail-FFB6C1?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/Python-FFFACD?style=for-the-badge&logo=python&logoColor=333" />
   <img src="https://img.shields.io/badge/C%2B%2B-B0C4DE?style=for-the-badge&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML-FFDAB9?style=for-the-badge&logo=html5&logoColor=white" />
@@ -25,10 +23,10 @@
 ### 📊 Stats & Progress
 
 <p align="center">
-  <!-- Cartão 1: Ana's GitHub Stats (Rosa Pastel) -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nanaforte&custom_title=Ana's%20GitHub%20Stats&show_icons=true&title_color=800080&text_color=333333&icon_color=800080&bg_color=fff0f5&include_all_commits=true&count_private=true" />
-  <!-- Cartão 2: Most Used Languages (Azul Pastel) -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nanaforte&layout=compact&title_color=1e90ff&text_color=333333&bg_color=e6f2ff" />
+  <!-- Cartão 1: Ana's GitHub Stats (Tema Tokyonight ou Pastel) -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nanaforte&custom_title=Ana%27s%20GitHub%20Stats&show_icons=true&theme=rose_pine&include_all_commits=true&count_private=true" />
+  <!-- Cartão 2: Most Used Languages -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nanaforte&layout=compact&theme=rose_pine" />
 </p>
 
 <!-- COMMIT STREAK LOGO ABAIXO -->
