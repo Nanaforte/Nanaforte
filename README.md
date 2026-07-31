@@ -1,6 +1,6 @@
 <!-- BANNER HORIZONTAL NO TOPO -->
 <p align="center">
-  <img src="https://i.pinimg.com/736x/14/0f/5f/140f5febfe7584e8dfc503d6a6f1acb5.jpg" width="100%" alt="Header Banner" />
+  <img src="https://i.pinimg.com/736x/83/bf/3c/83bf3c46d675d3a25a9ce0557c4cf42d.jpg" width="100%" alt="Header Banner" />
 </p>
 
 <!-- TÍTULO E APRESENTAÇÃO -->
