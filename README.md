@@ -24,12 +24,11 @@
 ### 📊 Stats & Progress
 
 <p align="center">
-  <!-- Cartão 1: Ana's GitHub Stats (Transparente e sem borda) -->
-  <img height="165px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Nanaforte&custom_title=Ana%27s%20GitHub%20Stats&show_icons=true&hide_border=true&bg_color=00000000&text_color=333&title_color=000&icon_color=7d337d&include_all_commits=true&count_private=true" />
-  <!-- Cartão 2: Most Used Languages (Transparente, sem borda e Compacto) -->
-  <img height="165px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Nanaforte&layout=compact&hide_border=true&bg_color=00000000&text_color=333&title_color=000" />
+  <!-- Cartão 1: Ana's GitHub Stats (Transparente com texto e borda rosa claro) -->
+  <img height="165px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Nanaforte&custom_title=Ana%27s%20GitHub%20Stats&show_icons=true&bg_color=00000000&text_color=ffd1dc&title_color=ffd1dc&icon_color=ffd1dc&border_color=ffd1dc&include_all_commits=true&count_private=true" />
+  <!-- Cartão 2: Most Used Languages (Transparente com texto e borda rosa claro) -->
+  <img height="165px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Nanaforte&layout=compact&bg_color=00000000&text_color=ffd1dc&title_color=ffd1dc&border_color=ffd1dc" />
 </p>
-
 <!-- COMMIT STREAK LOGO ABAIXO -->
 ### 🔥 Commit Streak
 
