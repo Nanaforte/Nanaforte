@@ -24,16 +24,6 @@
 
 ---
 
-<!-- ESTATÍSTICAS E MOST USED LANGUAGES LADO A LADO -->
-<h3 align="center"><font color="#f3a683">Stats & Progress</font></h3>
-
-<p align="center">
-  <!-- Cartão 1: Ana's GitHub Stats -->
-  <img height="165px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Nanaforte&custom_title=Ana%27s%20GitHub%20Stats&show_icons=true&bg_color=00000000&title_color=f3a683&text_color=ffd1dc&icon_color=ffd1dc&border_color=ffd1dc&include_all_commits=true&count_private=true" />
-  <!-- Cartão 2: Most Used Languages -->
-  <img height="165px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Nanaforte&layout=compact&bg_color=00000000&title_color=f3a683&text_color=ffd1dc&border_color=ffd1dc" />
-</p>
-
 <!-- COMMIT STREAK LOGO ABAIXO -->
 <h3 align="center"><font color="#f3a683">Commit Streak</font></h3>
 
