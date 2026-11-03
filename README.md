@@ -8,7 +8,7 @@
 
 <p align="center">
   <span style="color: #ffd1dc;">
-    <i>CS student building & learning every day.</i><br>
+    <i>CSLearning every day.</i><br>
   </span>
 </p>
 
